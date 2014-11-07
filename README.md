@@ -1,4 +1,4 @@
-Fizzbuzz in Javascript
+Fizzbuzz in Coffeescript
 =====================
 
 This project consists of writing Fizzbuzz in coffee script.
@@ -16,17 +16,17 @@ How to use
 Clone the repository:
 
 ```shell
-$ git@github.com:leopoldkwok/fizzbuzz_javascript.git
+$ git clone git@github.com:leopoldkwok/fizzbuzz_coffeescript.git
 ```
 
 Change directory:
 
 ```shell
-$ cd fizzbuzz_javascript
+$ cd fizzbuzz_coffeescript
 ```
 
 Run the tests:
 
 ```shell
-$ open jasmine/SpecRunner.html
+$ mocha
 ```
