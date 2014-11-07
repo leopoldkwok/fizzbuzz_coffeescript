@@ -25,6 +25,8 @@ Change directory:
 $ cd fizzbuzz_coffeescript
 ```
 
+Ensure you have Mocha, Coffeescript and Chai installed already.  
+
 Run the tests:
 
 ```shell
