@@ -1,5 +1,5 @@
 Fizzbuzz in Coffeescript
-=====================
+========================
 
 This project consists of writing Fizzbuzz in coffee script.
 
