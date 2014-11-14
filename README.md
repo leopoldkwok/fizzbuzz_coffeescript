@@ -1,7 +1,7 @@
 Fizzbuzz in Coffeescript
 ========================
 
-This project consists of writing Fizzbuzz in coffee script.
+This project consists of writing Fizzbuzz in coffee script. 
 
 Technologies used:
 ------------------
